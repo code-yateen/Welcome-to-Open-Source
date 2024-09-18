@@ -1716,6 +1716,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Kaone Keboetseng</b></sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/code-yateen">
+                    <img src="https://avatars.githubusercontent.com/u/173564984?v=4" width="100px;" alt="Yateen kumar"/>
+                    <br />
+                    <sub><b>Yateen kumar</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
